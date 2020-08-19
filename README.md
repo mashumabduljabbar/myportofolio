@@ -14,6 +14,8 @@ Sisfo SMP KHBP Rumbai PKU : https://github.com/multimediary/sisfo-hkbp-rumbai
 
 Sisfo Kursus Mobil : https://github.com/multimediary/sisfo-kursusmobil
 
+SPK Siswa Inklusi Metode AHP : https://github.com/multimediary/spk-ahp-siswainklusi
+
 
 ## Android Cordova
 Whistle Blowing System : https://github.com/multimediary/myportofolio/tree/master/Android/ALIE-PT
