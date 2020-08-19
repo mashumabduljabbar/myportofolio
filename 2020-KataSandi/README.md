@@ -6,5 +6,5 @@ Via Web Archive : https://web.archive.org/web/20200819030113/https://katasandi.b
 Via Direct : https://katasandi.biz.id/
 
 ## Screenshoot
-![main](2020-08-19-Katasandi)
+![main](2020-08-19-Katasandi.gif)
 
