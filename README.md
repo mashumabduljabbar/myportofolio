@@ -1,2 +1,6 @@
-# myportofolio
-Kumpulan Show Project Web yang pernah dibuat
+# My Portofolio
+Kumpulan Portofolio Project Web yang pernah dibuat / dimodifikasi
+
+# Link
+https://github.com/multimediary/myportofolio/tree/master/2017-OFONv1
+
