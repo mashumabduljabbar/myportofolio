@@ -2,7 +2,7 @@
 Whistle Blowing System
 
 ## Akses
-Via PlayStore : https://web.archive.org/web/20170429032747/https://ofon.co.id/
+Via PlayStore : https://play.google.com/store/apps/details?id=com.aliept.aliept
 
 ## Screenshoot
 ![main](ALIE-PT-Whistle-Blowing-System-UNILAK.gif)
