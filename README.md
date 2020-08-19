@@ -16,4 +16,4 @@ Sisfo Kursus Mobil : https://github.com/multimediary/sisfo-kursusmobil
 
 
 ## Android Cordova
-ALIE-PT Whistle Blowing System UNILAK : https://github.com/multimediary/myportofolio/tree/master/Android/ALIE-PT
+Whistle Blowing System : https://github.com/multimediary/myportofolio/tree/master/Android/ALIE-PT
