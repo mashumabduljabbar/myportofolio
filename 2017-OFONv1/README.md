@@ -1,7 +1,7 @@
-# Company Profile
+## Company Profile
 OFON
 
-# Akses
+## Akses
 Via Web Archive : https://web.archive.org/web/20170429032747/https://ofon.co.id/
 
 ## Screenshoot
