@@ -16,7 +16,7 @@ Sisfo Kursus Mobil : https://github.com/multimediary/sisfo-kursusmobil
 
 SPK Siswa Inklusi Metode AHP : https://github.com/multimediary/spk-ahp-siswainklusi
 
-Naive Bayes untuk Menentukan Perkiraan Studi Mahasiswa : https://github.com/multimediary/spk-naivebayes-perkiraanstudimahasiswa
+Naive Bayes Perkiraan Studi Mahasiswa : https://github.com/multimediary/spk-naivebayes-perkiraanstudimahasiswa
 
 
 ## Android Cordova
