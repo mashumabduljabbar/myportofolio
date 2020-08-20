@@ -8,6 +8,8 @@ AWM TOUR & TRAVEL : https://github.com/multimediary/myportofolio/tree/master/Web
 
 KATASANDI BLOG : https://github.com/multimediary/myportofolio/tree/master/Web/2020-KataSandi
 
+CORONA VIRUS DISEASE 2019 : https://multimediary.github.io/kelas-d-01/
+
 
 ## Sistem Informasi berbasis Web
 Sisfo SMP KHBP Rumbai PKU : https://github.com/multimediary/sisfo-hkbp-rumbai
