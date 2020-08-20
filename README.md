@@ -10,6 +10,8 @@ KATASANDI BLOG : https://github.com/multimediary/myportofolio/tree/master/Web/20
 
 CORONA VIRUS DISEASE 2019 : https://multimediary.github.io/kelas-d-01/
 
+KELAS DICODING : https://multimediary.github.io/kelas-dicoding/
+
 
 ## Sistem Informasi berbasis Web
 Sisfo SMP KHBP Rumbai PKU : https://github.com/multimediary/sisfo-hkbp-rumbai
