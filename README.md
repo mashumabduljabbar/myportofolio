@@ -18,6 +18,41 @@ SPK Siswa Inklusi Metode AHP : https://github.com/multimediary/spk-ahp-siswainkl
 
 Naive Bayes Perkiraan Studi Mahasiswa : https://github.com/multimediary/spk-naivebayes-perkiraanstudimahasiswa
 
+SPK PERT Penjadwalan Proyek : https://github.com/multimediary/spk-pert-penjadwalanproyek
+
+
+Belum Update / Private Repo :
+
+spk-fuzzytsukamoto-tentangpernikahan
+
+spk-saw-penentuanjudulskripsi
+
+spk-saw-penentuanjurusan
+
+spk-stad-smartcooperativeorientedproblem
+
+notulen
+
+laboratorium
+
+tak
+
+sisfo-quickcountpku
+
+inventoryfib
+
+skpiunilak
+
+prediksicerai
+
+inventory
+
+olo
+
+simfoni
+
 
 ## Android Cordova
 Whistle Blowing System : https://github.com/multimediary/myportofolio/tree/master/Android/ALIE-PT
+
+Parameter Wisata Halal : 
