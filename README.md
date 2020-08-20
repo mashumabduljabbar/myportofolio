@@ -55,4 +55,4 @@ simfoni
 ## Android Cordova
 Whistle Blowing System : https://github.com/multimediary/myportofolio/tree/master/Android/ALIE-PT
 
-Parameter Wisata Halal : 
+Parameter Wisata Halal : https://github.com/multimediary/myportofolio/tree/master/Android/ParameterWisataHalal
