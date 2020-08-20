@@ -12,6 +12,8 @@ CORONA VIRUS DISEASE 2019 : https://multimediary.github.io/kelas-d-01/
 
 KELAS DICODING : https://multimediary.github.io/kelas-dicoding/
 
+BOX-OFFICE MOVIE : https://github.com/multimediary/frontend-dicoding/
+
 
 ## Sistem Informasi berbasis Web
 Sisfo SMP KHBP Rumbai PKU : https://github.com/multimediary/sisfo-hkbp-rumbai
