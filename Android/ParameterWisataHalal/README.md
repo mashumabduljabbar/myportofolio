@@ -5,5 +5,5 @@ Parameter Wisata Halal
 Via PlayStore : https://play.google.com/store/apps/details?id=com.parameterwisatahalal.parameterwisatahalal
 
 ## Screenshoot
-![main](ParameterWisataHalal.gif)
+![main](Parameter-Wisata-Halal.gif)
 
