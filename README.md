@@ -26,6 +26,9 @@ spk-fuzzytsukamoto-tentangpernikahan, spk-saw-penentuanjudulskripsi, spk-saw-pen
 #### Chatbot
 * LINE Messaging API Chatbot : https://github.com/multimediary/line-chatbot
 
+#### Filter Instagram
+* Avenger Mask : https://www.instagram.com/ar/2592496891079857/?ch=Y2RiYzQ5NDg5ODE5ZDNlNjQ1YzdjNGUzNzM2OTViZDI%3D
+
 #### Karya Ilmiah
 * Skripsi - Perancangan Sistem Informasi Manajemen Signaling Point Code Pada Operator Jasa Teleponi Dasar PT Batam Bintan Telekomunikasi – Jakarta : https://github.com/multimediary/my-skripsi
 * Jurnal - Fraud Detection Call Detail Record Using Machine Learning in Telecommunications Company : https://astesj.com/v05/i04/p09/
