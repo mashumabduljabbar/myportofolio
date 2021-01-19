@@ -68,3 +68,5 @@
 * Narasumber - Marijo Belajar 30 Menit "PSBB" - Komunitas Marijo Belajar 01 Okt 2020 : https://www.instagram.com/p/CFw8UeXABPy/
 * Narasumber - Studium Generale "How to Prepare Yourself with IT Skills for the Future of Work" - Poiteknik Kampar 03 Juli 2020 : https://www.instagram.com/p/CCKUXitpDQR/
 
+#### Project Infrastruktur
+* Pembangunan Point of Interconnection Jaringan Telepon di Kota Jakarta, Bogor, Serang, Medan, Pekanbaru, Palembang, Bandung, Cirebon, Semarang, Surabaya, Denpasar, Solo, Yogyakarta dan Makassar : https://github.com/multimediary/myportofolio/tree/master/Pembangunan-Infra-POI
