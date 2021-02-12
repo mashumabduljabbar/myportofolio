@@ -45,7 +45,9 @@
 * Project Android untuk menampilkan gambar dan teks dan berpindah halaman. Tema Alat Telekomunikasi : https://github.com/multimediary/aplikasi-sejarah-alat-telekomunikasi
 
 #### Filter Instagram
+* Make Up dan Lensa Kontak : https://www.instagram.com/ar/449383966443594/?ch=ODEwYmUxMWQyNTdlNjY0NzI0MGMxYzgxZjhjOWUyNDM%3D 
 * Avenger Mask : https://www.instagram.com/ar/2592496891079857/?ch=Y2RiYzQ5NDg5ODE5ZDNlNjQ1YzdjNGUzNzM2OTViZDI%3D
+
 
 #### Data Science, Machine Learning dan Python Apps
 * CDR Fraud Detection with K-Means and DBSCAN and PCA for High Dimensional : https://github.com/multimediary/fraud_detection
