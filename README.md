@@ -60,11 +60,12 @@
 * Skripsi - Perancangan Sistem Informasi Manajemen Signaling Point Code Pada Operator Jasa Teleponi Dasar PT Batam Bintan Telekomunikasi – Jakarta : https://github.com/multimediary/my-skripsi
 * Jurnal - Fraud Detection Call Detail Record Using Machine Learning in Telecommunications Company : https://astesj.com/v05/i04/p09/
 
-#### Public Speaking & Content Creator
+#### Webinar/ Seminar/  Konferensi/ Lokakarya/ Simposium
 * Video Tutorial : http://bit.ly/videotutorialjabbar
 * Kumpulan Video Profile : http://bit.ly/videoprofilejabbar
 * Narasumber - Sharing Knowledge bersama Praktisi Perusahaan/Industri "Cyber Security" dalam proses Pembelajaran Jarak Jauh (PJJ) - Universitas Juanda - 10 Des 2020 : https://www.youtube.com/watch?v=HhsAhuLKu-4
-* Narasumber - Kuliah Perdana Peluang Lulusan POLKAM di Industri : https://youtu.be/wxgc9otE36w?t=13008
+* Ketua Panitia - Webinar Series #1 Menjadi Digital Entrepreneurship untuk Survive di Masa Pandemi 28 Nov 2020 : https://youtu.be/uijfKismTY0
+* Narasumber - Kuliah Perdana Peluang Lulusan POLKAM di Industri 05 Okt 2020 : https://youtu.be/wxgc9otE36w?t=13008
 * Narasumber - Marijo Belajar 30 Menit "PSBB" - Komunitas Marijo Belajar 01 Okt 2020 : https://www.instagram.com/p/CFw8UeXABPy/
 * Narasumber - Studium Generale "How to Prepare Yourself with IT Skills for the Future of Work" - Poiteknik Kampar 03 Juli 2020 : https://www.instagram.com/p/CCKUXitpDQR/
 
