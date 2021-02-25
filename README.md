@@ -64,10 +64,10 @@
 * Video Tutorial : http://bit.ly/videotutorialjabbar
 * Kumpulan Video Profile : http://bit.ly/videoprofilejabbar
 * Narasumber - Sharing Knowledge bersama Praktisi Perusahaan/Industri "Cyber Security" dalam proses Pembelajaran Jarak Jauh (PJJ) - Universitas Juanda - 10 Des 2020 : https://www.youtube.com/watch?v=HhsAhuLKu-4
-* Ketua Panitia - Webinar Series #1 Menjadi Digital Entrepreneurship untuk Survive di Masa Pandemi 28 Nov 2020 : https://youtu.be/uijfKismTY0
-* Narasumber - Kuliah Perdana Peluang Lulusan POLKAM di Industri 05 Okt 2020 : https://youtu.be/wxgc9otE36w?t=13008
-* Narasumber - Marijo Belajar 30 Menit "PSBB" - Komunitas Marijo Belajar 01 Okt 2020 : https://www.instagram.com/p/CFw8UeXABPy/
-* Narasumber - Studium Generale "How to Prepare Yourself with IT Skills for the Future of Work" - Poiteknik Kampar 03 Juli 2020 : https://www.instagram.com/p/CCKUXitpDQR/
+* Ketua Panitia - Webinar Series #1 Menjadi Digital Entrepreneurship untuk Survive di Masa Pandemi - Ikatan Alumni UHMT - 28 Nov 2020 : https://youtu.be/uijfKismTY0
+* Narasumber - Kuliah Perdana Peluang Lulusan POLKAM di Industri - Politeknik Kampar - 05 Okt 2020 : https://youtu.be/wxgc9otE36w?t=13008
+* Narasumber - Marijo Belajar 30 Menit "PSBB" - Komunitas Marijo Belajar - 01 Okt 2020 : https://www.instagram.com/p/CFw8UeXABPy/
+* Narasumber - Studium Generale "How to Prepare Yourself with IT Skills for the Future of Work" - Politeknik Kampar - 03 Juli 2020 : https://www.instagram.com/p/CCKUXitpDQR/
 
 #### Project Infrastruktur
 * Pembangunan Point of Interconnection Jaringan Telepon di Kota Jakarta, Bogor, Serang, Medan, Pekanbaru, Palembang, Bandung, Cirebon, Semarang, Surabaya, Denpasar, Solo, Yogyakarta dan Makassar : https://github.com/multimediary/myportofolio/tree/master/Pembangunan-Infra-POI
