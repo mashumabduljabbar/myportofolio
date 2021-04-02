@@ -63,6 +63,7 @@
 #### Webinar/ Seminar/  Konferensi/ Lokakarya/ Simposium
 * Video Tutorial : http://bit.ly/videotutorialjabbar
 * Kumpulan Video Profile : http://bit.ly/videoprofilejabbar
+* Moderator - JSC Talks Vol.15: "Cari Tau Jadwal Vaksinasi Lansia di Jakarta melalui JAKI" - Jakarta Smart City - 25 Mar 2021 : https://www.youtube.com/watch?v=p7Vi77Mtnkc&list=PL3u3tzgrNwSz4xqTHMzY_fgCqOzijXw0D&index=14
 * Narasumber - Sharing Knowledge bersama Praktisi Perusahaan/Industri "Cyber Security" dalam proses Pembelajaran Jarak Jauh (PJJ) - Universitas Juanda - 10 Des 2020 : https://www.youtube.com/watch?v=HhsAhuLKu-4
 * Ketua Panitia - Webinar Series #1 Menjadi Digital Entrepreneurship untuk Survive di Masa Pandemi - Ikatan Alumni UHMT - 28 Nov 2020 : https://youtu.be/uijfKismTY0
 * Narasumber - Kuliah Perdana Peluang Lulusan POLKAM di Industri - Politeknik Kampar - 05 Okt 2020 : https://youtu.be/wxgc9otE36w?t=13008
