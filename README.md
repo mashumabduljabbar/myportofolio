@@ -15,8 +15,6 @@
 * SPK Siswa Inklusi Metode AHP : https://github.com/mashumabduljabbar/spk-ahp-siswainklusi
 * Naive Bayes Perkiraan Studi Mahasiswa : https://github.com/mashumabduljabbar/spk-naivebayes-perkiraanstudimahasiswa
 * SPK PERT Penjadwalan Proyek : https://github.com/mashumabduljabbar/spk-pert-penjadwalanproyek
-<br>
-<br>
 * SKPI : http://skpi.unilak.ac.id/
 * SPK Penentuan Judul Skripsi : https://github.com/mashumabduljabbar/spk-saw-penentuanjudulskripsi
 * SPK Penentuan Jurusan : https://github.com/mashumabduljabbar/spk-saw-penentuanjurusan
@@ -42,8 +40,6 @@
 #### Android Cordova, Kotlin dan Java
 * Whistle Blowing System : https://github.com/mashumabduljabbar/myportofolio/tree/master/Android/ALIE-PT
 * Parameter Wisata Halal : https://github.com/mashumabduljabbar/myportofolio/tree/master/Android/ParameterWisataHalal
-<br>
-<br>
 * Pencarian User Github dengan Android Kotlin : https://github.com/mashumabduljabbar/GithubSearch
 * Project Android untuk menampilkan gambar dan teks dan berpindah halaman. Tema Alat Telekomunikasi : https://github.com/mashumabduljabbar/aplikasi-sejarah-alat-telekomunikasi
 ---
