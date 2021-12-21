@@ -48,6 +48,7 @@
 * Avenger Mask : https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Topeng%20Ant%20Mant%20di%20Instagram
 ---
 #### Data Science, Machine Learning dan Python Apps
+* Memprediksi Kepuasan Para Pelanggan Sebuah Maskapai Penerbangan Menggunakan Supervised Machine Learning : https://github.com/mashumabduljabbar/portfolio-data-science/blob/main/Memprediksi_Kepuasan_Para_Pelanggan_Sebuah_Maskapai_Penerbangan_Menggunakan_Supervised_Machine_Learning.ipynb
 * CDR Fraud Detection with K-Means and PCA for High Dimensional : https://github.com/mashumabduljabbar/portfolio-data-science/blob/main/fraud-modeling-CDR-K-Means.ipynb
 * CDR Fraud Detection with  and DBSCAN and PCA for High Dimensional : https://github.com/mashumabduljabbar/portfolio-data-science/blob/main/fraud-modeling-CDR-DBSCAN.ipynb
 * Prediksi Gambar Batu Gunting Kertas (rockscissorspaper) : https://github.com/mashumabduljabbar/python-Dicoding/blob/master/prediksi-gambar-rockscissorspaper.ipynb
