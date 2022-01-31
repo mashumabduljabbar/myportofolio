@@ -1,6 +1,46 @@
 ## Kumpulan Portofolio
 ---
+
+### **2022 :**
+<table>
+<tr>
+	<th>Category</th>
+	<th>Name / Description</th>
+	<th>Screenshoots / Video</th>
+	<th>URL</th>
+</tr>
+<tr>
+	<td>Website</a>
+	<td><b>Re-Cloud Low-code Competition</b>
+	<br>
+	Keterangan : ALICMS sebuah <i>platform</i> untuk membuat web tanpa koding dari AlibabaCloud. Kategori Web : <i>E-Commerce</i>. Toko daring mainan edukasi anak-anak.</td>
+	<td><a href="https://www.youtube.com/watch?v=TS8eY_0Jq-M" target="_blank"><img src="Screenshoots/Re-Cloud-Low-code-Competition-ALI-CMS.jpg" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="http://w-73850-58883-90290.4724382204.sites.hkalimatch01.shopali.net/" target="_blank">Demo</a></li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<td>Website</a>
+	<td><b>Web Portofolio</b>
+	<br>
+	Keterangan : Web ini dibuat dengan <i>framework</i> CodeIgniter 3.0 tanpa <i>database</i>, konten web dibuat statik atau secara <i>hard code</i>. Silahkan <i>clone</i> repo jika ingin mencoba.
+	</td>
+	<td><a href="https://www.youtube.com/watch?v=psRAHnWYWqA" target="_blank"><img src="Screenshoots/Web-Portofolio.jpg" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="https://mashumabduljabbar.000webhostapp.com/" target="_blank">Demo</a></li>
+			<li><a href="https://github.com/mashumabduljabbar/website-portfolio" target="_blank">Repo</a></li>
+		</ul>
+	</td>
+</tr>
+</table>
+
+### **2018-2021 :**
+
 #### Website & Sistem Informasi berbasis Web
+
 * OFON TELEPHONE SERVICE : https://github.com/mashumabduljabbar/myportofolio/tree/master/Web/2017-OFONv1
 * Sistem Informasi OFON Teleponi :  https://simfoni.ofon.co.id
 * AWM TOUR & TRAVEL : https://github.com/mashumabduljabbar/myportofolio/tree/master/Web/2020-AWMTour
