@@ -83,9 +83,13 @@
 * Pencarian User Github dengan Android Kotlin : https://github.com/mashumabduljabbar/GithubSearch
 * Project Android untuk menampilkan gambar dan teks dan berpindah halaman. Tema Alat Telekomunikasi : https://github.com/mashumabduljabbar/aplikasi-sejarah-alat-telekomunikasi
 ---
-#### Filter Instagram
-* Make Up dan Lensa Kontak : https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Make%20Up%20di%20Instagram
-* Avenger Mask : https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Topeng%20Ant%20Mant%20di%20Instagram
+#### Augmented Reality
+* Filter IG - Make Up dan Lensa Kontak : https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Make%20Up%20di%20Instagram
+* Filter IG - Avenger Mask : https://github.com/mashumabduljabbar/Portfolio/tree/main/Augmented%20Reality%20-%20Filter%20Topeng%20Ant%20Mant%20di%20Instagram
+* Snapchat - Background Ketupat : https://github.com/mashumabduljabbar/myportofolio/blob/master/Screenshoots/snapcode-backgroundketupat.png
+* Snapchat - Green Skin : https://github.com/mashumabduljabbar/myportofolio/blob/master/Screenshoots/snapcode-greenskin.png 
+* Snapchat - Mulut Bebek : https://github.com/mashumabduljabbar/myportofolio/blob/master/Screenshoots/snapcode-mulutbebek.png 
+* Snapchat - Tap to Change : https://github.com/mashumabduljabbar/myportofolio/blob/master/Screenshoots/snapcode-taptochange.png
 ---
 #### Data Science, Machine Learning dan Python Apps
 * Memprediksi Kepuasan Para Pelanggan Sebuah Maskapai Penerbangan Menggunakan Supervised Machine Learning : https://github.com/mashumabduljabbar/portfolio-data-science/blob/main/Memprediksi_Kepuasan_Para_Pelanggan_Sebuah_Maskapai_Penerbangan_Menggunakan_Supervised_Machine_Learning.ipynb
