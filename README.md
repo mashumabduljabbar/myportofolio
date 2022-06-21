@@ -4,10 +4,34 @@
 ### **2022 :**
 <table>
 <tr>
-	<th>Category</th>
-	<th>Name / Description</th>
+	<th>Portfolio Name</th>
+	<th>Description</th>
 	<th>Screenshoots / Video</th>
 	<th>URL</th>
+</tr>
+<tr>
+	<td>Assistant Project Leader</a>
+	<td><b>Vaksinasi Corona</b>
+	<br>
+	Keterangan : Vaksinasi Corona adalah aplikasi buatan tim Jakarta Smart City untuk sistem informasi pendaftaran Vaksinasi Covid-19 secara online.</td>
+	<td><a href="https://vaksinasi-corona.jakarta.go.id/" target="_blank"><img src="Screenshoots/vaksinasi.png" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="https://vaksinasi-corona.jakarta.go.id/" target="_blank">Link</a></li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<td>Project Leader</a>
+	<td><b>Asean Jobs</b>
+	<br>
+	Keterangan : ASEAN JOBS adalah pusat informasi pekerjaan online yang menghubungkan pemuda di seluruh kawasan Asia Tenggara. Saya bertugas sebagai konsultan sementara di perusahaan ICT Help sebagai Project Leader. Project berlangsung dari Maret s/d Juni 2022.</td>
+	<td><a href="https://www.aseanjobs.org/" target="_blank"><img src="Screenshoots/aseanjob.png" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="https://www.aseanjobs.org/" target="_blank">Link</a></li>
+		</ul>
+	</td>
 </tr>
 <tr>
 	<td>Website</a>
