@@ -11,9 +11,24 @@
 </tr>
 <tr>
 	<td>Assistant Project Leader</a>
+	<td><b>SmartEmployee</b>
+	<br>
+	Keterangan :  Aplikasi kepegawaian untuk Tenaga Ahli Jakarta Smart City seperti presensi, kegiatan harian, laporan bulanan, permohonan cuti, dan lainnya. Saya bertugas sebagai Assistant Project Leader di Jakarta Smart City.</td>
+	<td><a href="https://employee.jakartasmartcity.id/#/" target="_blank"><img src="Screenshoots/smartemployee.png" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="https://employee.jakartasmartcity.id/#/" target="_blank">Link Web</a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=id.go.jakarta.smartcity.kepegawaian" target="_blank">Link Android</a></li>
+			<li><a href="https://apps.apple.com/id/app/smartemployee/id1629810566?l=id" target="_blank">Link iOS</a></li>
+		</ul>
+	</td>
+</tr>
+<tr>
+	<td>Assistant Project Leader</a>
 	<td><b>Vaksinasi Corona</b>
 	<br>
-	Keterangan : Vaksinasi Corona adalah aplikasi buatan tim Jakarta Smart City untuk sistem informasi pendaftaran Vaksinasi Covid-19 secara online.</td>
+	Keterangan : Vaksinasi Corona adalah aplikasi buatan tim Jakarta Smart City untuk sistem informasi pendaftaran Vaksinasi Covid-19 secara online. Saya bertugas sebagai Assistant Project Leader di Jakarta Smart City.
+	</td>
 	<td><a href="https://vaksinasi-corona.jakarta.go.id/" target="_blank"><img src="Screenshoots/vaksinasi.png" width="240"></a></td>
 	<td>
 		<ul>
@@ -25,7 +40,7 @@
 	<td>Project Leader</a>
 	<td><b>Asean Jobs</b>
 	<br>
-	Keterangan : ASEAN JOBS adalah pusat informasi pekerjaan online yang menghubungkan pemuda di seluruh kawasan Asia Tenggara. Saya bertugas sebagai konsultan sementara di perusahaan ICT Help sebagai Project Leader. Project berlangsung dari Maret s/d Juni 2022.</td>
+	Keterangan : ASEAN JOBS adalah pusat informasi pekerjaan online yang menghubungkan pemuda di seluruh kawasan Asia Tenggara. Saya bertugas sebagai konsultan sementara di perusahaan ICT Help sebagai Project Leader. </td>
 	<td><a href="https://www.aseanjobs.org/" target="_blank"><img src="Screenshoots/aseanjob.png" width="240"></a></td>
 	<td>
 		<ul>
