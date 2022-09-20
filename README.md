@@ -10,6 +10,18 @@
 	<th>URL</th>
 </tr>
 <tr>
+	<td>Developer</a>
+	<td><b>Ensiklopedia Melayu</b>
+	<br>
+	Keterangan :  Aplikasi ini memiliki fitur terjemahan Indonesia-Melayu atau Melayu-Indonesia dan juga memiliki fitur pencarian pantun. Cukup dengan mengetikkan keyword yang ingin dicari.</td>
+	<td><a href="https://play.google.com/store/apps/details?id=id.ensiklopedia.melayu" target="_blank"><img src="Screenshoots/ensiklopediamelayu.png" width="240"></a></td>
+	<td>
+		<ul>
+			<li><a href="https://play.google.com/store/apps/details?id=id.ensiklopedia.melayu" target="_blank">Link Android</a></li>
+		</ul>
+	</td>
+</tr>
+<tr>
 	<td>Assistant Project Leader</a>
 	<td><b>SmartEmployee</b>
 	<br>
@@ -49,7 +61,7 @@
 	</td>
 </tr>
 <tr>
-	<td>Website</a>
+	<td>Developer</a>
 	<td><b>Re-Cloud Low-code Competition</b>
 	<br>
 	Keterangan : ALICMS sebuah <i>platform</i> untuk membuat web tanpa koding dari AlibabaCloud. Kategori Web : <i>E-Commerce</i>. Toko daring mainan edukasi anak-anak.</td>
@@ -61,7 +73,7 @@
 	</td>
 </tr>
 <tr>
-	<td>Website</a>
+	<td>Developer</a>
 	<td><b>Web Portofolio</b>
 	<br>
 	Keterangan : Web ini dibuat dengan <i>framework</i> CodeIgniter 3.0 tanpa <i>database</i>, konten web dibuat statik atau secara <i>hard code</i>. Silahkan <i>clone</i> repo jika ingin mencoba.
