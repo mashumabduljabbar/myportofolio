@@ -14,10 +14,10 @@
 	<td><b>Ensiklopedia Melayu</b>
 	<br>
 	Keterangan :  Aplikasi ini memiliki fitur terjemahan Indonesia-Melayu atau Melayu-Indonesia dan juga memiliki fitur pencarian pantun. Cukup dengan mengetikkan keyword yang ingin dicari.</td>
-	<td><a href="https://play.google.com/store/apps/details?id=id.ensiklopedia.melayu" target="_blank"><img src="Screenshoots/ensiklopediamelayu.png" width="240"></a></td>
+	<td><a href="https://play.google.com/store/apps/details?id=id.mashumabduljabbar.ensiklopediamelayu" target="_blank"><img src="Screenshoots/ensiklopediamelayu.png" width="240"></a></td>
 	<td>
 		<ul>
-			<li><a href="https://play.google.com/store/apps/details?id=id.ensiklopedia.melayu" target="_blank">Link Android</a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=id.mashumabduljabbar.ensiklopediamelayu" target="_blank">Link Android</a></li>
 		</ul>
 	</td>
 </tr>
