@@ -153,7 +153,7 @@
 ---
 #### Karya Ilmiah
 * Jurnal - Fraud Detection Call Detail Record Using Machine Learning in Telecommunications Company : https://astesj.com/v05/i04/p09/
-* Jurnal - ANDROID-BASED MALAY ENCYCLOPEDIA USING PATTERN MATCH METHOD : [https://astesj.com/v05/i04/p09/](https://iojs.unida.ac.id/index.php/IJAR/article/view/232)
+* Jurnal - ANDROID-BASED MALAY ENCYCLOPEDIA USING PATTERN MATCH METHOD : [https://iojs.unida.ac.id/index.php/IJAR/article/view/232](https://iojs.unida.ac.id/index.php/IJAR/article/view/232)
 ---
 #### Webinar/ Seminar/  Konferensi/ Lokakarya/ Simposium
 * Video Tutorial : http://bit.ly/videotutorialjabbar
