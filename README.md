@@ -13,7 +13,7 @@
 	<td>Developer</a>
 	<td><b>Ensiklopedia Melayu</b>
 	<br>
-	Keterangan :  Aplikasi ini memiliki fitur terjemahan Indonesia-Melayu atau Melayu-Indonesia dan juga memiliki fitur pencarian pantun. Cukup dengan mengetikkan keyword yang ingin dicari.</td>
+	Keterangan :  Aplikasi ini memiliki fitur terjemahan Indonesia-Melayu atau Melayu-Indonesia dan juga memiliki fitur pencarian pantun. Cukup dengan mengetikkan keyword yang ingin dicari. Backend : PHP & MySQL. FrontEnd : Flutter.</td>
 	<td><a href="https://play.google.com/store/apps/details?id=id.mashumabduljabbar.ensiklopediamelayu" target="_blank"><img src="Screenshoots/ensiklopediamelayu.png" width="240"></a></td>
 	<td>
 		<ul>
