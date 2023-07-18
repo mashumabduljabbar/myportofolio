@@ -8,6 +8,18 @@
 	<th>Description</th>
 	<th>Screenshoots / Video</th>
 	<th>URL</th>
+</tr>	
+<tr>
+	<td>Project Manager</a>
+	<td><b>Kelas Pintar</b>
+	<br>
+	Keterangan : Revamp Platfrom Belajar Online SD, SMP, SMA </td>
+	<td><img src="https://cdn.extramarks.id/web/images/website_v7/kelas-pintar-white-text.png" width="240"></td>
+	<td>
+		<ul>
+			<li><a href="https://kelaspintar.id" target="_blank">Link</a></li>
+		</ul>
+	</td>
 </tr>
 <tr>
 	<td>Developer</a>
@@ -36,7 +48,7 @@
 	</td>
 </tr>
 <tr>
-	<td>Assistant Project Leader</a>
+	<td>Project Leader</a>
 	<td><b>Vaksinasi Corona</b>
 	<br>
 	Keterangan : Vaksinasi Corona adalah aplikasi buatan tim Jakarta Smart City untuk sistem informasi pendaftaran Vaksinasi Covid-19 secara online. Saya bertugas sebagai Assistant Project Leader di Jakarta Smart City.
@@ -49,7 +61,7 @@
 	</td>
 </tr>
 <tr>
-	<td>Project Leader</a>
+	<td>Project Manager</a>
 	<td><b>Asean Jobs</b>
 	<br>
 	Keterangan : ASEAN JOBS adalah pusat informasi pekerjaan online yang menghubungkan pemuda di seluruh kawasan Asia Tenggara. Saya bertugas sebagai konsultan sementara di perusahaan ICT Help sebagai Project Leader. </td>
