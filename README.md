@@ -34,7 +34,7 @@
 	</td>
 </tr>
 <tr>
-	<td>Assistant Project Leader</a>
+	<td>Project Leader</a>
 	<td><b>SmartEmployee</b>
 	<br>
 	Keterangan :  Aplikasi kepegawaian untuk Tenaga Ahli Jakarta Smart City seperti presensi, kegiatan harian, laporan bulanan, permohonan cuti, dan lainnya. Saya bertugas sebagai Assistant Project Leader di Jakarta Smart City.</td>
