@@ -29,7 +29,7 @@
 	<td><img src="Screenshoots/arboretum.jpg" width="240"></td>
 	<td>
 		<ul>
-			<li><a href="[https://arboretumunilak.com/](https://arboretrum-web.vercel.app/)" target="_blank">Web</a></li>
+			<li><a href="https://arboretrum-web.vercel.app/" target="_blank">Web</a></li>
 			<li><a href="https://play.google.com/store/apps/details?id=com.arboretum_unilak.android&hl=id-ID" target="_blank">Android</a></li>
 		</ul>
 	</td>
