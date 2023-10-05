@@ -1,6 +1,5 @@
 ## Kumpulan Portofolio
 ---
-<img src="3ef48be1d76fd10019e204f39ec6018f.png">
 ### **2022-2023 :**
 <table>
 <tr>
