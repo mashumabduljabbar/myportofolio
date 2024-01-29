@@ -1,6 +1,7 @@
 ## Kumpulan Portofolio
 ---
-### **2022-2023 :**
+
+### **2024 :**
 <table>
 <tr>
 	<th>Portfolio Name</th>
@@ -13,13 +14,24 @@
 	<td><b>Pemilu Jakarta Utara</b>
 	<br>
 	Keterangan : Membuat website untuk Diskominfotik Jakut yang berisikan informasi seputar Pemilu 2024. Peta lokasi TPS dengan Google Maps, Publikasi, Laporan Situasi, FAQ dan Kontak.  </td>
-	<td><img src="Screenshoots/sura_dan_sulu-01.png" width="240"></td>
+	<td><img src="Screenshoots/Screenshot2024-01-29 115442.png" width="240"></td>
 	<td>
 		<ul>
 			<li><a href="https://pemilujakut.id/" target="_blank">Link</a></li>
 		</ul>
 	</td>
 </tr>
+</table>table>
+
+ 
+### **2022-2023 :**
+<table>
+<tr>
+	<th>Portfolio Name</th>
+	<th>Description</th>
+	<th>Screenshoots / Video</th>
+	<th>URL</th>
+</tr>	
 <tr>
 	<td>Project Manager</a>
 	<td><b>Kelas Pintar</b>
