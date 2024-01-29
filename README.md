@@ -9,6 +9,18 @@
 	<th>URL</th>
 </tr>	
 <tr>
+	<td>Fullstack Developer</a>
+	<td><b>Pemilu Jakarta Utara</b>
+	<br>
+	Keterangan : Membuat website untuk Diskominfotik Jakut yang berisikan informasi seputar Pemilu 2024. Peta lokasi TPS dengan Google Maps, Publikasi, Laporan Situasi, FAQ dan Kontak.  </td>
+	<td><img src="Screenshoots/sura_dan_sulu-01.png" width="240"></td>
+	<td>
+		<ul>
+			<li><a href="https://pemilujakut.id/" target="_blank">Link</a></li>
+		</ul>
+	</td>
+</tr>
+<tr>
 	<td>Project Manager</a>
 	<td><b>Kelas Pintar</b>
 	<br>
